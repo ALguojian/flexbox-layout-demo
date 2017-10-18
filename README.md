@@ -1,12 +1,11 @@
 # google开源库flexbox-layout使用demo
 
-![](http://upload-images.jianshu.io/upload_images/7426378-4a6abff821004d06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 ### 简介：
 
 github地址如下：
 > [flexbox-layout](https://github.com/google/flexbox-layout)
 
+![](http://ouvjn19yd.bkt.clouddn.com/61869899_p0.png)
 
 ### 使用
 
